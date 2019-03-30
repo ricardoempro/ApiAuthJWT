@@ -1,2 +1,2 @@
 # ApiAuthJWT
-desafio-java
+Projeto java feito para avaliação.
